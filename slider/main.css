@@ -1,0 +1,11 @@
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+
+#img {
+    opacity: 0.3;
+}
+      .col-4, .col{
+          column-gap: 0px;
+      }
